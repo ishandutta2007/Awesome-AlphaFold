@@ -11,7 +11,10 @@ AlphaFold transformed structural biology by solving the 50-year-old "protein fol
 
 The journey from statistical physics to deep end-to-end geometric architectures.
 
+```mermaid
 [Pre-Deep Learning Era] (Rosetta / Direct Coupling Analysis)│▼[AlphaFold 1] (2018 - CASP13) ──► ResNet predicting 2D distance histograms│▼[AlphaFold 2] (2020 - CASP14) ──► Evoformer + Structure Module (E(3) Transformers)│▼[AlphaFold-Multimer] (2021)   ──► Extended pairing for multi-chain complexes│▼[AlphaFold 3] (2024 - 2026)   ──► Diffusion Module for generalized molecular complexes
+```
+
 ---
 
 ## 🧬 Architectural Evolution & Technical Precursors

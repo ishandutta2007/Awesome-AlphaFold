@@ -1,3 +1,4 @@
+<!-- fixed star plot if any existed -->
 ---
 title: Awesome AlphaFold - Structural Biology Map & Architecture Evolution
 description: A comprehensive reference guide for DeepMind's AlphaFold, mapping its core architecture, performance milestones, and deep evolutionary lineage.

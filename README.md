@@ -4,11 +4,9 @@
 
   # Awesome-AlphaFold 🧬
 
-  ---
-  title: Awesome AlphaFold - Structural Biology Map & Architecture Evolution
-  description: A comprehensive reference guide for DeepMind's AlphaFold, mapping its core architecture, performance milestones, and deep evolutionary lineage.
-  keywords: AlphaFold, AlphaFold 2, AlphaFold 3, protein structure prediction, structural biology, DeepMind, bioinformatics, Evoformer, Rosetta, DCA
-  ---
+  #### title: Awesome AlphaFold - Structural Biology Map & Architecture Evolution
+  #### description: A comprehensive reference guide for DeepMind's AlphaFold, mapping its core architecture, performance milestones, and deep evolutionary lineage.
+  #### keywords: AlphaFold, AlphaFold 2, AlphaFold 3, protein structure prediction, structural biology, DeepMind, bioinformatics, Evoformer, Rosetta, DCA
 
   <img src="assets/banner.svg" alt="Awesome AlphaFold Banner" width="100%">
 </p>

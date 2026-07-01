@@ -1,4 +1,9 @@
-# Awesome-AlphaFold
+# Awesome-AlphaFold 🧬
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AlphaFold Banner" width="100%">
+</p>
+
 ## 🧬 The AlphaFold Structural Biology Map
 
 > **A comprehensive reference guide for DeepMind’s AlphaFold—mapping its core architecture, performance milestones, and deep evolutionary lineage from early structural biology models.**
